@@ -11,7 +11,7 @@ int *p = &x; // p armazena o endereço de x
 ```
 ---
 
-##Por que usar ponteiros?
+## Por que usar ponteiros?
 
 Eficiência → Evitam cópias desnecessárias de dados, pois trabalhamos diretamente com endereços.
 
